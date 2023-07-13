@@ -1,0 +1,8 @@
+Install TensorFlow library: pip install tensorflow
+Prepare your dataset with labeled images.
+Split the dataset into training and testing sets.
+Define the CNN architecture using Conv2D, MaxPooling2D, Flatten, and Dense layers.
+Compile the model with appropriate loss and optimizer functions.
+Train the model on the training set using model.fit().
+Evaluate the model on the testing set using model.evaluate().
+Use the trained model for predictions.
